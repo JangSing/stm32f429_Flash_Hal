@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -g2 -Map=Flash.map -O0 --gc-sections -LC:/Users/User/CoIDE/workspace/stm32f429_Flash_Hal -TC:/Users/User/CoIDE/workspace/stm32f429_Flash_Hal/stm32f429zi_flash.ld -g">
+      <target file="Flash.elf" lastModified="155815f8f25">
+         <source file="..\obj\main.o" lastModified="155815f8682"/>
+         <source file="..\obj\stm32f4xx_hal_flash_ex.o" lastModified="155815f89ee"/>
+         <source file="..\obj\stm32f4xx_hal.o" lastModified="155815f88f5"/>
+         <source file="..\obj\stm32f4xx_hal_cortex.o" lastModified="155815f8af7"/>
+         <source file="..\obj\stm32f4xx_hal_flash_ramfunc.o" lastModified="155815f85bc"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="155815f8b7c"/>
+         <source file="..\obj\startup_stm32f429xx.o" lastModified="155815f87ea"/>
+         <source file="..\obj\stm32f4xx_hal_flash.o" lastModified="155815f87bc"/>
+      </target>
+   </processor>
+</history>

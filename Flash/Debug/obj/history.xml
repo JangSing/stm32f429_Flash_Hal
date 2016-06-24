@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.8.1 mingw32 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g2 -Wall -O0 -c -DSTM32F429ZI -DSTM32F429xx -D__FPU_USED -DSTM32F429_439xx -I..\..\..\..\..\..\..\CoIDE\workspace\stm32f429_Flash_Hal\Core -I..\..\..\..\..\..\..\CoIDE\workspace\stm32f429_Flash_Hal\Config -I..\..\..\..\..\..\..\CoIDE\workspace -I..\..\..\..\..\..\..\CoIDE\workspace\stm32f429_Flash_Hal -I..\..\..\..\..\..\..\CoIDE\workspace\stm32f429_Flash_Hal\Config\Inc">
+      <target file="stm32f4xx_hal.o" lastModified="155815f88f5">
+         <source file="..\..\..\Config\Src\stm32f4xx_hal.c" lastModified="154964db9d7"/>
+      </target>
+      <target file="stm32f4xx_hal_cortex.o" lastModified="155815f8af7">
+         <source file="..\..\..\Config\Src\stm32f4xx_hal_cortex.c" lastModified="154964dba16"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ex.o" lastModified="155815f89ee">
+         <source file="..\..\..\Config\Src\stm32f4xx_hal_flash_ex.c" lastModified="154964db9f6"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="155815f8b7c">
+         <source file="..\..\..\Config\Src\system_stm32f4xx.c" lastModified="15124247927"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ramfunc.o" lastModified="155815f85bc">
+         <source file="..\..\..\Config\Src\stm32f4xx_hal_flash_ramfunc.c" lastModified="154964db9c8"/>
+      </target>
+      <target file="stm32f4xx_hal_flash.o" lastModified="155815f87bc">
+         <source file="..\..\..\Config\Src\stm32f4xx_hal_flash.c" lastModified="155807e9e6f"/>
+      </target>
+      <target file="main.o" lastModified="155815f8682">
+         <source file="..\..\..\app\main.c" lastModified="155815f81b4"/>
+      </target>
+      <target file="startup_stm32f429xx.o" lastModified="155815f87ea">
+         <source file="..\..\..\Config\Inc\startup_stm32f429xx.s" lastModified="15123253dc1"/>
+      </target>
+   </processor>
+</history>
